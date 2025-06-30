@@ -28,7 +28,7 @@ The app fetches weather data from the OpenWeatherMap API based on the city name 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/react-native-weather-app.git
+git clone https://jasoliyaparth@github.com/jasoliyaparth/weatherapp.git
 cd react-native-weather-app
 ```
 
